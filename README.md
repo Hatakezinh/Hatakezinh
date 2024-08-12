@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hatakezinh
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning HTML 
-- 📫 How to reach me ?
+- 📫 How to reach me ? Instagram: @devkasz
 - 😄 Pronouns: ele/dele
 
 <!---
